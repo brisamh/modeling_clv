@@ -61,6 +61,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Tools/libraries used: 
-- Tutorials or papers referenced
-- Inspiration or collaborators
+This project used Jupyter Notebooks, NumPy, Pandas, Seaborn, Matplotlib, and sklearn.
+Tutorials and guidance were provided by Dr. Fischer of Seattle University.
+
