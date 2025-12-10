@@ -64,3 +64,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This project used Jupyter Notebooks, NumPy, Pandas, Seaborn, Matplotlib, and sklearn.
 Tutorials and guidance were provided by Dr. Fischer of Seattle University.
 
+## Citations: 
+PwC. (2023, March). Customer lifetime value (CLV): December 2023‒Maximising profits and shaping customer relationships [PwC. (2023, March)](https://www.pwc.com/cz/en/risk-management-and-modelling/CLV_Final.pdf])
+
+Firestone, G., & Hindawi, M. (2013, March). Customer lifetime value: Opportunities and challenges (Paper No. 2119) [Firestone, G., & Hindawi, M. (2013, March)](https://www.casact.org/sites/default/files/presentation/rpm_2013_handouts_paper_2119_handout_796_0.pdf). 
+
+
