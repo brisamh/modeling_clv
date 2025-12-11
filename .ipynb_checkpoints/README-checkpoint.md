@@ -30,7 +30,6 @@ The aim of this study is to predict the Customer Lifetime Value (CLV) based on a
 
 - **Source:** https://www.kaggle.com/datasets/pankajjsh06/ibm-watson-marketing-customer-value-data/data . This is the link containing information on the dataset utilized.
 - **Description:** The dataset consists of 9,134 customer records and 24 variables describing customer demographics, insurance policy details, vehicle characteristics, and financial information. It is a clean dataset with no missing values. The data includes both numerical and categorical features including: Income, Monthly Premium Auto, Total Claim Amount, Policy Type, Vehicle Class, and State.
-- **License:** (if applicable)
 
 ---
 
@@ -49,7 +48,7 @@ The modeling results showed that standard OLS approaches performed poorly, with 
 
 ## Authors
 
-- Rashmi Kamath , Brisa Halviatti, Njenga Gakwa - [@brisamh](https://github.com/brisamh/modeling_clv/tree/main)
+- Rashmi Kamath , Brisa Halviatti, Njenga Gakwa - [@brisamh@jngakwa@rkamatn](https://github.com/brisamh/modeling_clv/tree/main)
 
 ---
 
