@@ -48,7 +48,7 @@ The modeling results showed that standard OLS approaches performed poorly, with 
 
 ## Authors
 
-- Rashmi Kamath , Brisa Halviatti, Njenga Gakwa - [@brisamh@jngakwa@rkamatn](https://github.com/brisamh/modeling_clv/tree/main)
+- Rashmi Kamath [@rkamtn](https://github.com/rkamatn), Brisa Halviatti [@brisamh](https://github.com/brisamh), Njenga Gakwa [@jngakwa](https://github.com/jngakwa)
 
 ---
 
